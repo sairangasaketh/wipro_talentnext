@@ -1,4 +1,4 @@
-package oops.Class_obj;
+package Class_obj;
 
 import java.util.Scanner;
 
